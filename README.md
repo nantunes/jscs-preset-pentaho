@@ -17,4 +17,4 @@ This packages provides a "pentaho" preset.
 }
 ```
 
-**Note:** Currently jscs-preset-pentaho needs to be installed locally in the project, with ```npm install jscs-preset-pentaho```. There is a PR (jscs-dev/node-jscs#1807) to allow global node modules (so it can be installed only once with ```npm install -g jscs-preset-pentaho```).
+**Note:** Currently jscs-preset-pentaho needs to be installed locally in the project, with ```npm install jscs-preset-pentaho```. There is a PR (https://github.com/jscs-dev/node-jscs/pull/1807) to allow global node modules (so it can be installed only once with ```npm install -g jscs-preset-pentaho```).
