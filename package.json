@@ -1,0 +1,20 @@
+{
+  "name": "jscs-preset-pentaho",
+  "version": "1.0.0",
+  "description": "JSCS preset for Pentaho",
+  "main": "./pentaho.json",
+  "author": "Nelson Antunes <nelson.antunes@webdetails.pt>",
+  "license": "MPL-2.0",
+  "keywords": [
+    "jscs-preset",
+    "pentaho"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nantunes/jscs-preset-pentaho.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nantunes/jscs-preset-pentaho/issues"
+  },
+  "homepage": "https://github.com/nantunes/jscs-preset-pentaho"
+}
