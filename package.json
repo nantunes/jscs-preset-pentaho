@@ -1,6 +1,6 @@
 {
   "name": "jscs-preset-pentaho",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "JSCS preset for Pentaho",
   "main": "./pentaho.json",
   "author": "Nelson Antunes <nelson.antunes@webdetails.pt>",
