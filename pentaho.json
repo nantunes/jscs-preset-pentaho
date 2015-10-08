@@ -71,7 +71,7 @@
     "disallowSpaceAfterObjectKeys": true,
     "requireSpaceBeforeObjectValues": true,
     "requireCapitalizedConstructors": true,
-    "requireDotNotation": true,
+    "requireDotNotation": false,
     "requireSemicolons": true,
     "validateParameterSeparator": ", ",
 
